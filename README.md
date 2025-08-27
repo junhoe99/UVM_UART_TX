@@ -15,4 +15,4 @@
 
 ## ✨ Verification Results
 
-## 💯 Insights
+## 🔥 Insights
