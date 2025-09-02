@@ -13,8 +13,9 @@ SystemVerilog 기반 UVM을 활용해 UART IP의 **TX 모듈**을 Verification�
 
 ### **1. Key Parameters / Features**
 - **Data Bits** : 8bit  
-- **Parity Bits** : 없음 → 단순성과 리소스 절약을 위해 parity bit 미사용  
-- **Oversampling (baud_tick)** :  
+- **Parity Bits** : 없음 → 단순성과 리소스 절약을 위해 parity bit 미사용
+- **BUAD Rate** : 9600 bps
+- **Oversampling** :  
   UART는 비동기 통신이므로 TX/RX 클럭이 완벽히 맞지 않아도 동작해야 함 → **16배 Oversampling**으로 타이밍 동기화 & 정확한 데이터 샘플링 구현
 
 ---
