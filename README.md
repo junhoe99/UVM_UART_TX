@@ -5,7 +5,7 @@
 
 ## 🔎 Overview
 
-## 📌 Spec Analysis
+## 📌 DUT Spec Analysis
 
 ## 🔁 Verification Plan
 
