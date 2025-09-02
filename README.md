@@ -7,7 +7,7 @@
 
 ## 📌 DUT Spec Analysis
 ### **1. System Block Diagram:**
-### **2. Protocol : **:
+### **2. Protocol : **
 ### **3. Timing Diagram, FSM , ASM, :**
         - FSM
         - ASM
