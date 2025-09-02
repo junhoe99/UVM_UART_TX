@@ -11,7 +11,7 @@ SystemVerilog 기반 UVM을 활용해 UART IP의 **TX 모듈**을 Verification�
 
 ## 📌 DUT Spec Analysis
 
-### **1. Key Parameters**
+### **1. Key Parameters / Features**
 - **Data Bits** : 8bit  
 - **Parity Bits** : 없음 → 단순성과 리소스 절약을 위해 parity bit 미사용  
 - **Oversampling (baud_tick)** :  
