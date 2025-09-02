@@ -17,7 +17,7 @@ SystemVerilog 기반 UVM을 활용해 UART IP의 TX 모듈을 Verification하는
 
 ### 2. Protocol
 ![Protocol](https://github.com/user-attachments/assets/0bf95832-7a3f-4a1a-8e93-271f4bd011b7)
-)
+
 
 ### 3. Timing Diagram / FSM / ASM
 **FSM**  
