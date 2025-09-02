@@ -21,7 +21,7 @@ SystemVerilog 기반 UVM을 활용해 UART IP의 **TX 모듈**을 Verification�
 ---
 
 ### **2. System Block Diagram**
-![System Block](https://github.com/user-attachments/assets/f35191cc-3701-4830-ada3-a31a89ce559e](https://github.com/user-attachments/assets/9a877ee5-fb74-4b15-a695-0856ae47b962))
+![System Block](https://github.com/user-attachments/assets/f35191cc-3701-4830-ada3-a31a89ce559e](https://github.com/user-attachments/assets/9a877ee5-fb74-4b15-a695-0856ae47b962)
 
 ---
 
