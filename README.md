@@ -34,7 +34,7 @@ SystemVerilog 기반 UVM을 활용해 UART IP의 **TX 모듈**을 Verification�
 | **START BIT** | 각 전송 frame은 반드시 **start bit = 0**으로 시작해야 함 |
 | **STOP BIT**  | 전송 종료 시 반드시 **stop bit = 1**로 끝나야 함 |
 | **BIT SEQUENCE** | 데이터 bit는 **LSB → MSB** 순서로 전송 |
-| **BAUD RATE** | 각 비트의 지속 시간은 **baud rate**에 맞춰야 함 |
+| **BIT PER CLK** | 각 비트의 duration은 **baud rate**에 맞춰야 함 |
 
 ---
 
