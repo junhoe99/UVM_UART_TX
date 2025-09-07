@@ -56,6 +56,8 @@ SystemVerilog 기반 UVM을 활용해 UART IP의 **TX 모듈**을 Verification�
 ---
 
 ## 📚 TB Architecture
+![TB Architecure](https://github.com/user-attachments/assets/edd06bab-8991-4b6e-8bbb-1ed943ff52e1)
+
 UVM Testbench 계층 구조:
 - DUT  
 - Interface  
