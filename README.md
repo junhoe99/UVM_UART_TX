@@ -1,4 +1,4 @@
-# 🌐 UVM_UART
+# 🌐 UVM_UART_TX
 
 SystemVerilog 기반 UVM을 활용해 UART IP의 **TX 모듈**을 Verification하는 프로젝트입니다.
 
